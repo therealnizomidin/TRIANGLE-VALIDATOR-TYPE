@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1753336333 source:c:\users\hp\downloads\c code\triangle or not\main.c
+	<stdio.h>
+	<stdlib.h>
+
